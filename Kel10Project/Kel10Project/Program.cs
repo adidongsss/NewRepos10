@@ -7,7 +7,7 @@ namespace Kel10Project
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-           
+            Console.WriteLine("Ini adalah Branches 1");
         }
     }
 }
